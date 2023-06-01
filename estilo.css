@@ -1,0 +1,110 @@
+a:hover{
+    color:rgb(136, 67, 95);
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+    color: rgba(119, 56, 144, 0.985);
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  .button {
+    transition-duration: 0.4s;
+  }
+  
+  .button:hover {
+    background-color: #4d1b64aa; /* Green */
+    color: rgb(255, 255, 255);
+  }
+  /* original a partir daqui */
+.rain{
+    /* #61478f*/
+    text-align:start;
+    font-size: medium;
+    font-family: serif;
+}
+.purple{
+    background-color:#c9abdbb3;
+    text-align:center;
+    font-size:50px;
+    font-family:serif;
+}
+.fue{
+    position:static;
+    background-color:#c9abdbb3;
+    text-align:center;
+    font-size: 145%;
+    font-family: calibri;
+    border: 2px;
+    padding: 25px;
+    width: 50%;
+    
+}
+.imgm{
+    border-radius: 10%;
+}
+
+footer{
+    position:fixed;
+    right: 0px;
+    bottom: 0;
+    width: 100%;
+    background-color:rgb(130, 72, 96);
+    color: white;
+    text-align: right;
+}
+.fundo{
+    background-color: lightsteelblue;
+   
+}
+.fun{
+    position:static;
+    background-color:#c9abdbb3;
+    text-align:center;
+    font-size: 145%;
+    font-family:calibri;
+    border: 2px;
+    padding:25px;
+    width: 50%;
+}
+.link-telefone_email {
+    color:indigo;
+    text-decoration: underline;
+    text-align: justify;
+  }
+.button2{
+  background-color: #3e3262c2;
+  border: none;
+  padding: 25px;
+  text-align: center;
+  text-decoration: underline;
+  font-size: 85%;
+  margin: 4px 2px;
+  cursor:copy;
+  border-radius: 12px;
+  width: 75%;
+}
+.linkbt{
+  color:rgb(191, 162, 212);
+    text-decoration: none;
+    text-align: justify;
+}
+/* botão dos projetos */
+
+.button2 {
+  transition-duration: 0.4s;
+}
+
+.button2:hover {
+  background-color:rgb(56, 25, 82);
+  
+}
+
+/* botão dos contatos */
+.button3{
+  border: none;
+  margin: 4px 2px;
+  cursor:copy;
+  border-radius: 150px;
+  width: 110px;
+}
